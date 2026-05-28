@@ -1,0 +1,151 @@
+Lead_ID,Company_Name,Industry,Lead_Source,Contacted_Date,Stage,Response_Time_Days,Emails_Sent,Calls_Made,Demo_Done,Proposal_Sent,Closed_Won,Closed_Lost,Reason_Lost,Deal_Size_USD
+LEAD_1001,Elara_Labs,Manufacturing,Devpost Hackathon,2024-03-03,Prospecting,4,4,2,0,0,0,0,,11000
+LEAD_1002,Vortex_Labs,SaaS,Google Search,2024-02-29,Closed Lost,5,9,0,0,0,0,1,Price too high,18000
+LEAD_1003,Nova_Global,Edtech,LinkedIn Outreach,2024-02-10,Closed Won,2,12,6,1,1,1,0,,11000
+LEAD_1004,Triton_Global,Healthcare,LinkedIn Outreach,2024-01-24,Prospecting,11,7,1,0,0,0,0,,15000
+LEAD_1005,Zenith_Labs,E-commerce,LinkedIn Outreach,2024-05-21,Closed Won,2,5,5,1,1,1,0,,14000
+LEAD_1006,Vortex_Tech,Fintech,Devpost Hackathon,2024-01-21,Closed Won,2,14,3,1,1,1,0,,10000
+LEAD_1007,Nova_Corp,Manufacturing,Devpost Hackathon,2024-02-11,Prospecting,4,6,5,0,0,0,0,,4000
+LEAD_1008,Aether_Systems,Manufacturing,Google Search,2024-02-11,Closed Won,1,8,6,1,1,1,0,,9500
+LEAD_1009,Apex_Global,Edtech,LinkedIn Outreach,2024-02-28,Closed Won,1,14,0,1,1,1,0,,13000
+LEAD_1010,Nova_Labs,Fintech,Cold Email,2024-03-21,Closed Won,1,4,7,1,1,1,0,,6000
+LEAD_1011,Aether_SaaS,Fintech,Google Search,2024-05-23,Closed Won,10,9,4,1,1,1,0,,11000
+LEAD_1012,Spectra_Corp,Healthcare,Google Search,2024-02-05,Closed Won,3,9,7,1,1,1,0,,6000
+LEAD_1013,Elara_AI,Manufacturing,Google Search,2024-04-18,Closed Won,2,10,1,1,1,1,0,,12000
+LEAD_1014,Zenith_SaaS,Logistics,LinkedIn Outreach,2024-01-30,Closed Won,1,11,8,1,1,1,0,,13500
+LEAD_1015,Elara_SaaS,E-commerce,Google Search,2024-04-26,Contacted,2,1,4,1,1,0,0,,10500
+LEAD_1016,Elara_Global,Manufacturing,Devpost Hackathon,2024-05-09,Closed Won,2,10,3,1,1,1,0,,19000
+LEAD_1017,Zenith_Global,Logistics,LinkedIn Outreach,2024-03-23,Closed Lost,3,8,0,1,0,0,1,Chose competitor,7500
+LEAD_1018,Spectra_Labs,SaaS,Webinar,2024-05-04,Closed Won,6,14,1,0,0,1,0,,7000
+LEAD_1019,Zenith_AI,Healthcare,Cold Email,2024-04-18,Proposal Sent,3,4,8,0,0,0,0,,4000
+LEAD_1020,Apex_Corp,Logistics,Warm Referral,2024-01-31,Closed Won,1,4,3,1,1,1,0,,12500
+LEAD_1021,Spectra_AI,SaaS,LinkedIn Outreach,2024-01-16,Closed Lost,5,4,1,0,0,0,1,Product fit issue,12500
+LEAD_1022,Triton_Systems,Fintech,Webinar,2024-05-26,Closed Won,3,10,7,1,1,1,0,,10500
+LEAD_1023,Helix_AI,SaaS,LinkedIn Outreach,2024-04-20,Closed Won,1,6,6,1,1,1,0,,9000
+LEAD_1024,Elara_Labs,E-commerce,Webinar,2024-03-27,Closed Won,2,13,1,1,1,1,0,,16000
+LEAD_1025,Zenith_Corp,Fintech,Warm Referral,2024-02-16,Closed Lost,4,5,7,0,0,0,1,Price too high,4500
+LEAD_1026,Vortex_Labs,Edtech,Google Search,2024-02-12,Closed Won,4,7,7,1,1,1,0,,10000
+LEAD_1027,Vortex_AI,E-commerce,LinkedIn Outreach,2024-04-09,Closed Won,1,5,7,1,1,1,0,,14000
+LEAD_1028,Aether_AI,Healthcare,Google Search,2024-01-15,Closed Won,7,10,8,1,1,1,0,,15500
+LEAD_1029,Vortex_Labs,Logistics,Warm Referral,2024-05-08,Closed Won,1,15,8,1,1,1,0,,10500
+LEAD_1030,Aether_Labs,Logistics,LinkedIn Outreach,2024-03-01,Prospecting,4,7,1,0,0,0,0,,15500
+LEAD_1031,Helix_Tech,Logistics,Cold Email,2024-05-13,Closed Won,2,6,4,1,1,1,0,,11000
+LEAD_1032,Triton_SaaS,E-commerce,Google Search,2024-03-17,Closed Won,1,8,5,1,1,1,0,,7000
+LEAD_1033,Vortex_Corp,Logistics,Cold Email,2024-01-26,Prospecting,6,2,8,0,0,0,0,,17000
+LEAD_1034,Apex_SaaS,Fintech,Warm Referral,2024-05-19,Closed Won,3,12,4,1,1,1,0,,16000
+LEAD_1035,Zenith_SaaS,Manufacturing,LinkedIn Outreach,2024-02-04,Demo Scheduled,4,5,1,0,0,0,0,,9000
+LEAD_1036,Apex_AI,Manufacturing,Webinar,2024-03-08,Closed Won,4,9,7,1,1,1,0,,18000
+LEAD_1037,Elara_Tech,E-commerce,Devpost Hackathon,2024-01-12,Proposal Sent,3,1,5,0,0,0,0,,18000
+LEAD_1038,Helix_Systems,SaaS,LinkedIn Outreach,2024-01-20,Closed Won,1,15,2,1,1,1,0,,15000
+LEAD_1039,Spectra_Systems,Fintech,Warm Referral,2024-02-02,Prospecting,3,1,4,0,0,0,0,,10500
+LEAD_1040,Triton_Tech,Fintech,Webinar,2024-01-27,Contacted,3,6,8,0,0,0,0,,4000
+LEAD_1041,Triton_Global,Fintech,Google Search,2024-04-15,Closed Lost,2,1,2,0,0,0,1,No budget,13000
+LEAD_1042,Helix_Global,SaaS,Warm Referral,2024-02-26,Closed Lost,10,4,7,0,0,0,1,Chose competitor,9500
+LEAD_1043,Helix_SaaS,Healthcare,LinkedIn Outreach,2024-03-12,Closed Won,1,6,8,1,1,1,0,,9500
+LEAD_1044,Vortex_Labs,Healthcare,Google Search,2024-05-28,Demo Scheduled,6,5,0,1,0,0,0,,13000
+LEAD_1045,Zenith_Labs,E-commerce,Cold Email,2024-02-18,Closed Lost,2,5,0,0,1,0,1,No budget,14000
+LEAD_1046,Apex_Systems,Healthcare,Webinar,2024-02-01,Closed Won,3,12,4,1,1,1,0,,15500
+LEAD_1047,Apex_Corp,Manufacturing,Devpost Hackathon,2024-05-21,Contacted,1,3,3,0,0,0,0,,10500
+LEAD_1048,Nova_Corp,Logistics,LinkedIn Outreach,2024-03-18,Proposal Sent,2,5,3,0,0,0,0,,6000
+LEAD_1049,Triton_Systems,E-commerce,Webinar,2024-02-13,Prospecting,4,11,1,0,0,0,0,,13000
+LEAD_1050,Triton_Tech,Healthcare,Google Search,2024-02-20,Prospecting,3,3,0,1,0,0,0,,11000
+LEAD_1051,Spectra_AI,Manufacturing,Webinar,2024-04-08,Closed Won,1,8,6,1,1,1,0,,10000
+LEAD_1052,Elara_Global,E-commerce,Google Search,2024-02-15,Closed Won,2,13,8,1,1,1,0,,8500
+LEAD_1053,Elara_Corp,Fintech,Warm Referral,2024-05-15,Closed Won,2,9,5,1,1,1,0,,13500
+LEAD_1054,Spectra_Global,Manufacturing,Cold Email,2024-04-19,Closed Won,15,14,8,1,1,1,0,,12500
+LEAD_1055,Lumina_Corp,Healthcare,Google Search,2024-03-11,Closed Won,4,13,8,1,1,1,0,,11500
+LEAD_1056,Nova_Corp,SaaS,Webinar,2024-03-14,Closed Won,1,4,4,1,1,1,0,,11500
+LEAD_1057,Aether_AI,Fintech,Warm Referral,2024-02-09,Closed Lost,3,12,3,1,0,0,1,Product fit issue,21500
+LEAD_1058,Helix_Global,Logistics,Webinar,2024-01-06,Closed Won,2,14,6,1,1,1,0,,13000
+LEAD_1059,Nova_Global,E-commerce,Warm Referral,2024-05-17,Closed Won,3,12,8,1,1,1,0,,7000
+LEAD_1060,Lumina_AI,Healthcare,Warm Referral,2024-05-04,Contacted,8,1,6,0,0,0,0,,15000
+LEAD_1061,Aether_Systems,Logistics,LinkedIn Outreach,2024-04-10,Closed Lost,6,10,0,1,0,0,1,Product fit issue,8000
+LEAD_1062,Apex_AI,E-commerce,Devpost Hackathon,2024-03-27,Closed Won,10,13,6,1,1,1,0,,6000
+LEAD_1063,Nova_Global,SaaS,Warm Referral,2024-01-05,Closed Won,5,12,8,1,1,1,0,,20500
+LEAD_1064,Triton_Tech,SaaS,Webinar,2024-01-11,Contacted,1,13,0,1,1,0,0,,9500
+LEAD_1065,Spectra_AI,Fintech,Google Search,2024-05-01,Closed Lost,3,11,1,0,0,0,1,Price too high,9500
+LEAD_1066,Elara_Global,Edtech,Google Search,2024-03-20,Closed Lost,1,2,0,0,0,0,1,Chose competitor,12000
+LEAD_1067,Elara_Systems,Manufacturing,Webinar,2024-03-03,Prospecting,1,2,4,1,1,0,0,,13500
+LEAD_1068,Spectra_Global,SaaS,Devpost Hackathon,2024-05-16,Closed Won,1,7,5,1,1,1,0,,18000
+LEAD_1069,Vortex_Global,E-commerce,Warm Referral,2024-01-28,Closed Won,1,7,5,1,1,1,0,,10500
+LEAD_1070,Aether_Corp,Fintech,Webinar,2024-05-13,Closed Won,6,11,4,1,1,1,0,,7000
+LEAD_1071,Lumina_Corp,Edtech,Webinar,2024-03-09,Contacted,3,6,3,0,1,0,0,,17000
+LEAD_1072,Spectra_Systems,Manufacturing,Warm Referral,2024-03-27,Contacted,1,1,7,1,1,0,0,,12500
+LEAD_1073,Apex_Global,Healthcare,Devpost Hackathon,2024-03-12,Closed Won,4,15,4,1,1,1,0,,15000
+LEAD_1074,Elara_AI,Manufacturing,Warm Referral,2024-05-05,Closed Won,1,9,3,1,1,1,0,,6500
+LEAD_1075,Lumina_Global,SaaS,LinkedIn Outreach,2024-03-16,Proposal Sent,5,4,6,0,0,0,0,,13000
+LEAD_1076,Apex_Corp,Manufacturing,Cold Email,2024-03-25,Closed Won,4,6,7,0,0,1,0,,13000
+LEAD_1077,Apex_Labs,Manufacturing,Cold Email,2024-02-17,Demo Scheduled,1,4,3,0,0,0,0,,12500
+LEAD_1078,Triton_SaaS,Fintech,Devpost Hackathon,2024-02-15,Closed Won,4,5,0,0,1,1,0,,9000
+LEAD_1079,Zenith_SaaS,Manufacturing,Google Search,2024-05-05,Contacted,14,2,0,0,0,0,0,,13500
+LEAD_1080,Nova_Global,E-commerce,LinkedIn Outreach,2024-01-17,Closed Won,1,7,7,1,1,1,0,,14500
+LEAD_1081,Aether_AI,Edtech,Cold Email,2024-03-18,Contacted,1,2,3,1,1,0,0,,15000
+LEAD_1082,Helix_Corp,E-commerce,Devpost Hackathon,2024-05-30,Closed Won,8,7,4,1,1,1,0,,8500
+LEAD_1083,Spectra_Tech,SaaS,Google Search,2024-02-24,Closed Won,7,5,1,1,0,1,0,,13500
+LEAD_1084,Helix_Corp,Manufacturing,Cold Email,2024-04-30,Closed Lost,6,5,0,0,0,0,1,Chose competitor,19500
+LEAD_1085,Nova_Global,Edtech,Webinar,2024-05-30,Closed Won,2,11,3,1,1,1,0,,8500
+LEAD_1086,Aether_SaaS,Edtech,Google Search,2024-01-19,Demo Scheduled,1,1,2,0,0,0,0,,8500
+LEAD_1087,Lumina_Tech,Healthcare,Webinar,2024-04-13,Proposal Sent,3,5,8,0,0,0,0,,13000
+LEAD_1088,Spectra_SaaS,SaaS,LinkedIn Outreach,2024-02-28,Prospecting,4,11,0,0,0,0,0,,15000
+LEAD_1089,Aether_Corp,Logistics,Webinar,2024-04-23,Closed Won,3,15,4,1,1,1,0,,17500
+LEAD_1090,Lumina_Labs,E-commerce,Devpost Hackathon,2024-04-14,Closed Won,2,6,5,1,1,1,0,,22500
+LEAD_1091,Apex_Corp,Manufacturing,Warm Referral,2024-03-14,Prospecting,5,11,6,1,1,0,0,,8500
+LEAD_1092,Apex_SaaS,Healthcare,LinkedIn Outreach,2024-04-13,Closed Won,1,14,8,1,1,1,0,,13500
+LEAD_1093,Zenith_Corp,E-commerce,LinkedIn Outreach,2024-02-18,Closed Won,2,9,5,1,1,1,0,,14500
+LEAD_1094,Lumina_Global,SaaS,Google Search,2024-03-09,Closed Lost,4,9,2,0,0,0,1,Price too high,11500
+LEAD_1095,Triton_Tech,Fintech,Devpost Hackathon,2024-05-21,Closed Won,1,1,8,1,1,1,0,,5500
+LEAD_1096,Elara_Corp,SaaS,Webinar,2024-02-09,Closed Won,2,8,4,1,1,1,0,,15000
+LEAD_1097,Helix_Global,E-commerce,Warm Referral,2024-03-03,Closed Won,3,8,8,1,1,1,0,,7000
+LEAD_1098,Spectra_Systems,Manufacturing,Google Search,2024-01-18,Closed Lost,3,5,6,0,0,0,1,Lost interest,13500
+LEAD_1099,Spectra_Systems,Manufacturing,Warm Referral,2024-02-08,Closed Won,1,8,8,1,1,1,0,,12500
+LEAD_1100,Zenith_Global,Logistics,Warm Referral,2024-04-26,Contacted,3,15,5,1,1,0,0,,7000
+LEAD_1101,Triton_Global,Edtech,Warm Referral,2024-01-12,Contacted,4,6,7,0,0,0,0,,14000
+LEAD_1102,Vortex_AI,Logistics,Cold Email,2024-03-25,Closed Lost,7,14,1,0,0,0,1,Chose competitor,16000
+LEAD_1103,Helix_Global,Manufacturing,Google Search,2024-01-20,Closed Won,1,8,4,1,1,1,0,,8000
+LEAD_1104,Elara_Global,Healthcare,Webinar,2024-05-16,Closed Won,5,7,5,1,1,1,0,,14000
+LEAD_1105,Zenith_Labs,Logistics,LinkedIn Outreach,2024-03-01,Prospecting,5,11,4,1,1,0,0,,27000
+LEAD_1106,Elara_Global,Manufacturing,Webinar,2024-01-26,Closed Won,5,8,2,0,0,1,0,,16500
+LEAD_1107,Nova_SaaS,Healthcare,Warm Referral,2024-02-07,Closed Won,7,4,8,0,0,1,0,,14500
+LEAD_1108,Elara_Systems,Edtech,Warm Referral,2024-03-02,Closed Won,2,8,2,1,1,1,0,,15000
+LEAD_1109,Lumina_SaaS,Manufacturing,LinkedIn Outreach,2024-04-29,Closed Won,1,15,4,1,1,1,0,,11000
+LEAD_1110,Elara_Corp,Healthcare,Cold Email,2024-03-17,Closed Won,2,11,6,1,1,1,0,,12000
+LEAD_1111,Nova_AI,E-commerce,Warm Referral,2024-01-28,Closed Lost,21,4,6,0,0,0,1,Product fit issue,4500
+LEAD_1112,Nova_Labs,Logistics,Webinar,2024-01-13,Demo Scheduled,5,15,7,1,1,0,0,,5500
+LEAD_1113,Triton_Systems,Edtech,Devpost Hackathon,2024-02-26,Closed Won,2,11,3,1,1,1,0,,16000
+LEAD_1114,Elara_Tech,Manufacturing,LinkedIn Outreach,2024-03-20,Closed Won,3,13,7,1,1,1,0,,7500
+LEAD_1115,Aether_Labs,Healthcare,Devpost Hackathon,2024-04-16,Closed Won,1,3,3,1,1,1,0,,14500
+LEAD_1116,Zenith_Systems,Healthcare,Google Search,2024-03-06,Closed Won,1,15,7,1,1,1,0,,12500
+LEAD_1117,Apex_Global,SaaS,Warm Referral,2024-01-20,Closed Lost,3,3,3,0,0,0,1,Product fit issue,9000
+LEAD_1118,Vortex_SaaS,Logistics,LinkedIn Outreach,2024-04-26,Prospecting,18,6,4,0,0,0,0,,14500
+LEAD_1119,Lumina_Labs,Logistics,Cold Email,2024-03-24,Closed Won,1,15,3,1,1,1,0,,12500
+LEAD_1120,Nova_Tech,E-commerce,LinkedIn Outreach,2024-02-05,Closed Won,1,1,0,0,0,1,0,,15000
+LEAD_1121,Helix_Corp,Healthcare,Webinar,2024-05-18,Closed Won,1,7,2,1,1,1,0,,11500
+LEAD_1122,Lumina_Systems,E-commerce,Devpost Hackathon,2024-01-09,Closed Won,4,12,5,1,1,1,0,,15000
+LEAD_1123,Triton_Global,Healthcare,LinkedIn Outreach,2024-04-04,Closed Won,1,9,5,1,1,1,0,,10500
+LEAD_1124,Triton_Labs,Edtech,Warm Referral,2024-01-24,Closed Won,2,11,3,1,1,1,0,,9000
+LEAD_1125,Vortex_Global,Healthcare,Google Search,2024-02-02,Closed Won,13,13,3,1,0,1,0,,13500
+LEAD_1126,Triton_SaaS,Edtech,Google Search,2024-01-01,Prospecting,1,5,2,0,0,0,0,,15500
+LEAD_1127,Vortex_AI,SaaS,Devpost Hackathon,2024-03-01,Closed Won,18,10,5,1,1,1,0,,16000
+LEAD_1128,Vortex_AI,Manufacturing,Warm Referral,2024-05-14,Prospecting,1,2,1,0,0,0,0,,10000
+LEAD_1129,Triton_Systems,SaaS,Webinar,2024-05-13,Proposal Sent,9,5,7,0,1,0,0,,9000
+LEAD_1130,Elara_Corp,Manufacturing,Warm Referral,2024-01-19,Closed Won,4,15,1,0,1,1,0,,15000
+LEAD_1131,Helix_Systems,Logistics,Devpost Hackathon,2024-04-26,Closed Won,1,9,6,1,1,1,0,,11500
+LEAD_1132,Zenith_Tech,Edtech,Google Search,2024-04-20,Closed Won,1,8,3,1,1,1,0,,7500
+LEAD_1133,Helix_Corp,Manufacturing,LinkedIn Outreach,2024-03-21,Closed Won,2,7,5,1,1,1,0,,7000
+LEAD_1134,Aether_Tech,E-commerce,LinkedIn Outreach,2024-01-24,Contacted,12,14,1,1,1,0,0,,6000
+LEAD_1135,Spectra_Systems,Logistics,Devpost Hackathon,2024-02-01,Closed Won,2,7,5,1,1,1,0,,12500
+LEAD_1136,Vortex_SaaS,Logistics,Devpost Hackathon,2024-03-31,Closed Lost,10,2,8,0,0,0,1,Price too high,6000
+LEAD_1137,Apex_Labs,Edtech,Devpost Hackathon,2024-05-26,Prospecting,8,4,6,0,0,0,0,,12000
+LEAD_1138,Nova_Labs,Fintech,Devpost Hackathon,2024-03-20,Closed Won,1,15,5,1,1,1,0,,13500
+LEAD_1139,Aether_Systems,Manufacturing,Warm Referral,2024-01-18,Closed Lost,3,3,0,1,0,0,1,Lost interest,9500
+LEAD_1140,Nova_Tech,Healthcare,Cold Email,2024-01-22,Closed Won,3,15,0,1,0,1,0,,10000
+LEAD_1141,Nova_Corp,Manufacturing,Warm Referral,2024-05-04,Closed Won,3,10,7,1,1,1,0,,14500
+LEAD_1142,Zenith_Labs,Healthcare,Warm Referral,2024-01-29,Closed Lost,11,5,7,0,0,0,1,Lost interest,7000
+LEAD_1143,Triton_Global,Fintech,Devpost Hackathon,2024-03-15,Closed Won,18,6,1,1,0,1,0,,4000
+LEAD_1144,Zenith_Tech,Fintech,Cold Email,2024-05-23,Closed Won,2,14,5,1,1,1,0,,14000
+LEAD_1145,Helix_Labs,E-commerce,LinkedIn Outreach,2024-03-21,Closed Won,4,10,6,1,1,1,0,,9500
+LEAD_1146,Nova_Labs,E-commerce,LinkedIn Outreach,2024-03-24,Closed Won,2,3,7,1,1,1,0,,10000
+LEAD_1147,Elara_Corp,Edtech,LinkedIn Outreach,2024-03-03,Closed Won,2,7,6,1,1,1,0,,15000
+LEAD_1148,Nova_Tech,Healthcare,Google Search,2024-03-26,Contacted,4,13,2,1,0,0,0,,9000
+LEAD_1149,Apex_SaaS,Manufacturing,Webinar,2024-02-07,Closed Lost,6,4,1,1,0,0,1,Product fit issue,13000
+LEAD_1150,Lumina_Global,Logistics,Cold Email,2024-04-24,Closed Lost,6,11,5,1,1,0,1,No budget,14500
