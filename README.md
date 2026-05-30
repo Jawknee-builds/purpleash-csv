@@ -8,7 +8,7 @@
 
 An enterprise-grade sales pipeline visualization dashboard and predictive machine learning tool. Purpleash enables users to upload sales CSV data, conduct automated data profiling, analyze deal size vs. response time latency, and utilize an embedded Random Forest classifier to predict lead conversion probabilities in real-time.
 
-👉 **[Live Streamlit Cloud Deployment Link](https://purpleash-engine.streamlit.app/)**
+👉 **[Live Clickable Interactive Dashboard Demo](https://jawknee-builds.github.io/purpleash-csv/)**
 
 ---
 
@@ -78,14 +78,18 @@ graph TD
 
 ---
 
-## 🌩️ Streamlit Community Cloud One-Click Deployment
+## 🌩️ 100% Free Production Deployment
 
-This repository is structured for immediate, one-click hosting:
+### 1. GitHub Pages (Primary - Instant & 100% Free)
+1. Go to your **GitHub Repository Settings**.
+2. Navigate to **Pages** in the left sidebar.
+3. Select **Deploy from a branch**, set the branch to `main` (and directory to `/root`), and click **Save**.
+4. Your beautiful, interactive glassmorphic dashboard will be live under your custom GitHub Pages domain instantly!
 
-1. Push your changes to GitHub.
-2. Sign in to [Streamlit Community Cloud](https://share.streamlit.io/).
-3. Click **New app**, select `purpleash-csv` as your repository, set the branch to `main`, and the main file path to `app.py`.
-4. Click **Deploy!** Your app is live under your own custom sub-domain.
+### 2. Streamlit Community Cloud (Alternative Python Server Hosting)
+1. Sign in to [Streamlit Community Cloud](https://share.streamlit.io/).
+2. Click **New app**, select `purpleash-csv` as your repository, set the branch to `main`, and the main file path to `app.py`.
+3. Click **Deploy!**
 
 ---
 *Created with 💜 by [Jawknee-builds](https://github.com/Jawknee-builds)*
