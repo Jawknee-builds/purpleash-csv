@@ -8,7 +8,7 @@
 
 An enterprise-grade sales pipeline visualization dashboard and predictive machine learning tool. Purpleash enables users to upload sales CSV data, conduct automated data profiling, analyze deal size vs. response time latency, and utilize an embedded Random Forest classifier to predict lead conversion probabilities in real-time.
 
-👉 **[Live Clickable Interactive Dashboard Demo](https://jawknee-builds.github.io/purpleash-csv/)**
+👉 **[Live Clickable Interactive Dashboard Demo](https://purpleash-csv.vercel.app)**
 
 ---
 
